@@ -1,0 +1,49 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <nav class="navbar">
+      <div class="nav-content">
+        <div class="nav-brand">CW</div>
+        <ul class="nav-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li>
+            <button
+              class="theme-toggle"
+              id="theme-toggle"
+              aria-label="Toggle theme"
+            >
+              <i class="fas fa-moon"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main class="content">{{ content }}</main>
+
+    <footer class="footer">
+      <h2>Contact Information</h2>
+      <div class="contact-grid">
+        <div class="contact-item">
+          <a href="mailto:c689wang@uwaterloo.ca">
+            <i class="fas fa-envelope"></i>
+            <span>c689wang@uwaterloo.ca</span>
+          </a>
+        </div>
+        <div class="contact-item">
+          <a href="https://linkedin.com/in/cedric-wang" target="_blank">
+            <i class="fab fa-linkedin"></i>
+            <span>linkedin.com/in/cedric-wang</span>
+          </a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

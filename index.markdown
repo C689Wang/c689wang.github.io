@@ -25,19 +25,37 @@ title: Home
     <h2>Projects</h2>
     <div class="projects-grid">
         <div class="project-card">
-            <h3>Project 1</h3>
-            <p>A brief description of your awesome project goes here.</p>
-            <div class="project-links">
-                <a href="https://github.com/yourusername/project1" target="_blank">View on GitHub</a>
-            </div>
+            <a href="https://github.com/C689Wang/questFlow-calendarApp" target="_blank" class="project-link">
+                <img src="/assets/images/projects/CalendarApp.png" alt="Calendar App" class="project-image">
+                <div class="project-overlay">
+                    <h3>QuestFlow Calendar App</h3>
+                </div>
+            </a>
         </div>
-        
         <div class="project-card">
-            <h3>Project 2</h3>
-            <p>Another amazing project description goes here.</p>
-            <div class="project-links">
-                <a href="https://github.com/yourusername/project2" target="_blank">View on GitHub</a>
-            </div>
+            <a href="https://github.com/C689Wang/ChatApp" target="_blank" class="project-link">
+                <img src="/assets/images/projects/ChatApp.png" alt="Chat App" class="project-image">
+                <div class="project-overlay">
+                    <h3>Chat App</h3>
+                </div>
+            </a>
+        </div>
+        <div class="project-card">
+            <a href="https://github.com/C689Wang/SocialMediaClone" target="_blank" class="project-link">
+                <img src="/assets/images/projects/SocialMediaClone.png" alt="Social Media Clone" class="project-image">
+                <div class="project-overlay">
+                    <h3>Social Media Clone</h3>
+                </div>
+            </a>
+        </div>
+        <div class="project-card">
+            <a href="https://github.com/C689Wang/Farming2DGame" target="_blank" class="project-link">
+                <img src="/assets/images/projects/Farming2DGame.png" alt="Farming 2D Game" class="project-image">
+                <div class="project-overlay">
+                    <h3>Farming 2D Game</h3>
+                </div>
+            </a>
         </div>
     </div>
+
 </section>

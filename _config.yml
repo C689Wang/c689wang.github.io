@@ -18,15 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: John Doe | Software Developer
-email: your-email@example.com
+title: Cedric Wang
 description: >-
-  Personal portfolio website of John Doe, showcasing software development projects
+  Personal portfolio website of Cedric Wang, showcasing software development projects
   and professional experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: yourusername
-linkedin_username: yourusername
 
 # Build settings
 theme: minima

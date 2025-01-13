@@ -25,6 +25,22 @@ title: Home
     <h2>Projects</h2>
     <div class="projects-grid">
         <div class="project-card">
+            <a href="https://github.com/C689Wang/chore-share" target="_blank" class="project-link">
+                <img src="/assets/images/projects/ChoreShare.png" alt="Chore Share" class="project-image">
+                <div class="project-overlay">
+                    <h3>Chore Share</h3>
+                </div>
+            </a>
+        </div>
+        <div class="project-card">
+            <a href="https://github.com/C689Wang/task-race" target="_blank" class="project-link">
+                <img src="/assets/images/projects/TaskRace.png" alt="Task Race" class="project-image">
+                <div class="project-overlay">
+                    <h3>Task Race</h3>
+                </div>
+            </a>
+        </div>
+        <div class="project-card">
             <a href="https://github.com/C689Wang/questFlow-calendarApp" target="_blank" class="project-link">
                 <img src="/assets/images/projects/CalendarApp.png" alt="Calendar App" class="project-image">
                 <div class="project-overlay">

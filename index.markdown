@@ -8,7 +8,7 @@ title: Home
 
 <div class="hero-section" id="home">
     <h1>Cedric Wang</h1>
-    <p class="subtitle">4th Year Computer Science Student at the University of Waterloo</p>
+    <p class="subtitle">4th Year Computer Science and Finance Student at the University of Waterloo</p>
     <div class="social-links">
         <a href="https://github.com/C689Wang" target="_blank"><i class="fab fa-github"></i></a>
         <a href="https://linkedin.com/in/cedric-wang" target="_blank"><i class="fab fa-linkedin"></i></a>

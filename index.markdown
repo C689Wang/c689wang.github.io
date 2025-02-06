@@ -12,7 +12,7 @@ title: Home
     <div class="social-links">
         <a href="https://github.com/C689Wang" target="_blank"><i class="fab fa-github"></i></a>
         <a href="https://linkedin.com/in/cedric-wang" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:c689wang@uwaterloo.ca"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:cedric02mtl@gmail.com"><i class="fas fa-envelope"></i></a>
     </div>
 </div>
 
